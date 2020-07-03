@@ -1,3 +1,4 @@
 This is a website for advertising beauty product
 
-code is at the/ code editor
+This website will have the following features:
+1. 
